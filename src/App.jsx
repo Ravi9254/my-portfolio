@@ -156,7 +156,7 @@ function App() {
             <h2 className="text-2xl font-semibold">Projects</h2>
             <div className="flex flex-col sm:flex-row gap-10 mt-11">
               <div className="border border-gray-500 rounded-md p-5 flex-1">
-                <img src={Project1} className="w-full h-auto" />
+                <img src={react-chat} className="w-full h-auto" />
                 <h3 className="text-2xl font-semibold mt-8">React Chat App</h3>
                 <p className="text-gray-400 text-sm mt-2">
                   Devlope Responsive Website using Html,css, React-js
@@ -168,7 +168,7 @@ function App() {
                      </a>
                   </button>
                   <button className="flex-1 text-sm py-3 border rounded-full hover:border-blue-500 hover:text-blue-500">
-                    <a href="https://github.com/Max737jdhd/shoes-website">
+                    <a href="https://github.com/Max737jdhd/chatapp>
                       Checkout github
                     </a>
                   </button>
