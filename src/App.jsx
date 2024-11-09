@@ -151,6 +151,31 @@ function App() {
               </div>
             </div>
           </div>
+
+          <div className="container m-auto px-4 sm:py-12">
+            <h2 className="text-2xl font-semibold">Projects</h2>
+            <div className="flex flex-col sm:flex-row gap-10 mt-11">
+              <div className="border border-gray-500 rounded-md p-5 flex-1">
+                <img src={Project1} className="w-full h-auto" />
+                <h3 className="text-2xl font-semibold mt-8">React Chat App</h3>
+                <p className="text-gray-400 text-sm mt-2">
+                  Devlope Responsive Website using Html,css, React-js
+                </p>
+                <div className="flex mt-12 gap-2">
+                  <button className="flex-1 text-sm py-3 bg-gradient-to-t from-blue-500 rounded-full to-cyan-500 hover:from-blue-700 hover:to-cyan-700">
+                   <a href="https://chatappbymax.netlify.app/">
+                    Live preview
+                     </a>
+                  </button>
+                  <button className="flex-1 text-sm py-3 border rounded-full hover:border-blue-500 hover:text-blue-500">
+                    <a href="https://github.com/Max737jdhd/shoes-website">
+                      Checkout github
+                    </a>
+                  </button>
+                </div>
+              </div>
+            </div>
+          
         </section>
 
         <section className="py-10" id="technologies">
