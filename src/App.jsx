@@ -216,7 +216,7 @@ function App() {
                   <h2 className="font-semibold">React</h2>
                   <p className="text-gray-500">Intermediate</p>
                 </div>
-                <span classNaaine="w-[70%] h-2 mt-2 bg-gradient-to-t from-blue-500 to-cyan-500 block rounded-md" />
+                <span className="w-[70%] h-2 mt-2 bg-gradient-to-t from-blue-500 to-cyan-500 block rounded-md" />
               </div>
             </div>
           </div>
