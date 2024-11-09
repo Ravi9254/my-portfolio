@@ -82,9 +82,7 @@ function App() {
               </div>
               <div>
                 <p className="mt-4 text-gray-400">
-                  Former digital-marketing specialist, seeking to apply
-                  competent development skills with focus on collaboration,
-                  communication, and passion
+                 Proficient in HTML, CSS, and JavaScript, with experience using frameworks like React and Bootstrap to create responsive and interactive user interfaces.
                 </p>
                 <button className="px-8 shadow-gray-500 shadow-md py-5 mt-5 bg-gradient-to-t from-blue-500 rounded-full to-cyan-500 hover:from-blue-700 hover:to-cyan-700">
                   <a
