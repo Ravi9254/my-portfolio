@@ -123,7 +123,7 @@ function App() {
                     Live preview
                   </button>
                   <button className="flex-1 text-sm py-3 border rounded-full hover:border-blue-500 hover:text-blue-500">
-                    <a href="https://github.com/Max737jdhd/shoes-website">
+                    <a href="https://github.com/Ravi9254/shoes-website">
                       Checkout github
                     </a>
                   </button>
@@ -145,7 +145,7 @@ function App() {
                     Live preview
                   </button>
                   <button className="flex-1 text-sm py-3 border rounded-full hover:border-blue-500 hover:text-blue-500">
-                    <a href="https://github.com/Max737jdhd/portfoliopage">
+                    <a href="https://github.com/Ravi9254/portfoliopage">
                       {" "}
                       Checkout github
                     </a>
@@ -168,7 +168,7 @@ function App() {
                     <a href="https://chatappbymax.netlify.app/">Live preview</a>
                   </button>
                   <button className="flex-1 text-sm py-3 border rounded-full hover:border-blue-500 hover:text-blue-500">
-                    <a href="https://github.com/Max737jdhd/chatapp">
+                    <a href="https://github.com/Ravi9254/chatapp">
                       Checkout github
                     </a>
                   </button>
